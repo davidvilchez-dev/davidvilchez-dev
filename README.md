@@ -1,5 +1,5 @@
 # 💫 About Me:
-Systems Engineering student and Backend / Full Stack Developer. Focused on building scalable applications and RESTful APIs using Java, Spring Boot, Node.js, and React. Experienced in developing personal projects applying clean code, best practices, and relational databases.
+Systems Engineering student currently learning backend and full-stack development. Interested in building REST APIs and scalable applications. Gaining hands-on experience through personal projects using Java, Spring Boot, React, Node.js, and relational databases. Motivated by continuous learning, good development practices, and writing clean, maintainable code.
 
 
 ## 🌐 Socials:
